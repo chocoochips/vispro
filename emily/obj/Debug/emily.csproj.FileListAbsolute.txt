@@ -1,0 +1,10 @@
+C:\Users\mily\source\repos\emily\emily\bin\Debug\emily.exe.config
+C:\Users\mily\source\repos\emily\emily\bin\Debug\emily.exe
+C:\Users\mily\source\repos\emily\emily\bin\Debug\emily.pdb
+C:\Users\mily\source\repos\emily\emily\obj\Debug\emily.csproj.AssemblyReference.cache
+C:\Users\mily\source\repos\emily\emily\obj\Debug\emily.Form1.resources
+C:\Users\mily\source\repos\emily\emily\obj\Debug\emily.Properties.Resources.resources
+C:\Users\mily\source\repos\emily\emily\obj\Debug\emily.csproj.GenerateResource.cache
+C:\Users\mily\source\repos\emily\emily\obj\Debug\emily.csproj.CoreCompileInputs.cache
+C:\Users\mily\source\repos\emily\emily\obj\Debug\emily.exe
+C:\Users\mily\source\repos\emily\emily\obj\Debug\emily.pdb
